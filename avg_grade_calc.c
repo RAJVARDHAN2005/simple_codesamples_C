@@ -18,8 +18,7 @@ int main() {
 
    double avg = ((double)m1 + m2 + m3)/3;
 
-   printf("\nThe Avg is = %lf \n \n", avg);
+   printf("\nThe Avg is = %.4lf \n \n", avg);
 
    return 0;
 }
- 
